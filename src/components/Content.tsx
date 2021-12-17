@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./styles/content.scss";
+import "../styles/content.scss";
 import { api } from "../services/api";
 import { MovieCard } from "../components/MovieCard";
 

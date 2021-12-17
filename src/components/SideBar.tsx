@@ -2,7 +2,7 @@ import { Button } from "./Button";
 import { api } from "../services/api";
 import { useEffect, useState } from "react";
 
-import "./styles/sidebar.scss";
+import "../styles/sidebar.scss";
 
 interface SideBarProps {
   selectedGenreId: Number;
